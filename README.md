@@ -1,2 +1,2 @@
 # basic_movement_unity_character
-A basic script to can move a character in Unity.
+A basic script to move a character in Unity.
